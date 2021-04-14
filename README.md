@@ -16,7 +16,7 @@ My background spans around 7 years of experience successfully promoting and dire
 
 ## :seedling: I’m currently learning
 * Next.js
-* Harvard CS50
+* GraphQL 
 
 ## :speech_balloon: Ask me about
 * Any of my current projects and past experience
