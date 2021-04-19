@@ -10,12 +10,12 @@ My background spans around 7 years of experience successfully promoting and dire
 * JavaScript ES6
 * React JS
 * Node.js
-* ostgreSQL
-* Jest
+* PostgreSQL
 * MongoDB
+* Jest
+* Cypress
 
 ## :seedling: I’m currently learning
-* Next.js
 * GraphQL 
 
 ## :speech_balloon: Ask me about
